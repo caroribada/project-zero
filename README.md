@@ -143,19 +143,3 @@ footer
 #### Imagen de referencia
 
 ![](https://i.imgur.com/f5OIzcq.jpg)
-
----
-
-## Parte 3 [WIP]
-
-### Fecha de entrega (Parte 3)
-
-4/6 de Abril, dependiendo en qué grupo estés.
-
-#### Estilos CSS
-
-1. Definir alguna tipografía distinta a la default para los `p`. Esta fuente debe ser [safe web](http://web.mit.edu/jmorzins/www/fonts.html) para asegurarnos compatibilidad independientemente del sistema operativo del usuario.
-2. Elegir alguna fuente de [Google Fonts](http://fonts.google.com) para los `h1` y usarla con el `font-weight` correspondiente a `bold`.
-3. Elegir otra fuente de [Google Fonts](http://fonts.google.com) para los `h2` y `h3`. Usarla con el `font-weight` correspondiente a `bold` (`h1`, `h2/h3` y `p`deben tener tipografías distintas).
-4. Transformar los `h3` para que siempre se vean en mayúsculas.
-5. Agregarle los estilos correspondientes a todas las imágenes del sitio para que sean *responsive*. Pista: alcanza con modificar ancho y alto de las mismas.
